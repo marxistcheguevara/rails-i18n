@@ -121,7 +121,7 @@ az:
       too_short: çox qısadır (%{count} simvoldan az olmalı deyil)
       wrong_length: uzunluqu səhvdir (%{count} simvol olmalıdır)
     template:
-      body: 'Aşağıdaki səhvlər üzə çıxdı:'
+      body: 'Aşağıdaki səhvlər aşkar olundu:'
       header:
         one: "%{model} saxlanmadı: 1 səhv"
         other: "%{model} saxlanmadı: %{count} səhv"
@@ -154,7 +154,7 @@ az:
         units:
           billion: Milyard
           million: Milyon
-          quadrillion: Katrilyon
+          quadrillion: Kvadrilyon
           thousand: Min
           trillion: Trilyon
           unit: ''
